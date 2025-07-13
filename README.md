@@ -32,7 +32,8 @@ Currently building hands-on labs and compliance simulations on Linux.
   </a>
 </div>
 <div>
-  <a> src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></a>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/BlackNemo.png" alt="Your Image Badge" />
+
 </div>
 
 

@@ -29,12 +29,9 @@ Currently building hands-on labs and compliance simulations on Linux.
   </a>
   <a href="https://tryhackme.com/p/BlackNemo"  target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="linkedin logo"  />
-  /a>
+  </a>
 </div>
-<div align="bottom">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
 
-</div>
 ###
 <!--
 **BlackScrooge/BlackScrooge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

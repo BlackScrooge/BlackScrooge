@@ -32,9 +32,8 @@ Currently building hands-on labs and compliance simulations on Linux.
   /a>
 </div>
 <div align="bottom">
-<a href="https://tryhackme.com/p/BlackNemo" target="blank">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
-  </a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
+
 </div>
 ###
 <!--

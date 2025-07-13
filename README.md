@@ -32,7 +32,7 @@ Currently building hands-on labs and compliance simulations on Linux.
   </a>
 </div>
 <div>
- <img src="https://tryhackme-badges.s3.amazonaws.com/BlackNemo.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/BlackNemo.png" alt="Your Image Badge" />
 
 </div>
 

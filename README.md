@@ -17,6 +17,12 @@
 ###
 I’m an aspiring GRC & IT-Security professional focused on ISO 27001 in financial environments.  
 Currently building hands-on labs and compliance simulations on Linux.
+
+🛡️ Certifications:
+- ISO/IEC 27001 Practitioner
+- IT-Grundschutz-Praktiker (BSI)
+- TryHackMe: SOC Level 1
+- Microsoft Cybersecurity Fundamentals
 <div align="left">
   <a href="https://www.linkedin.com/in/thomas-schneider-71137a173/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

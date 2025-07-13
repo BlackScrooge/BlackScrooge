@@ -21,10 +21,11 @@ Currently building hands-on labs and compliance simulations on Linux.
   <a href="https://www.linkedin.com/in/thomas-schneider-71137a173/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://tryhackme.com/p/BlackNemo" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/BlackNemo.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/BlackNemo">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
 
-  </a>
+
+  /a>
 </div>
 div align="left">
 <a href0"https://tryhackme.com/p/BlackNemo" target="blank">

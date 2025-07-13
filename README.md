@@ -31,7 +31,10 @@ Currently building hands-on labs and compliance simulations on Linux.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
+<div>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
+</div>
+
 
 ###
 <!--

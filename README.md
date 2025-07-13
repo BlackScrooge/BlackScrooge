@@ -32,7 +32,7 @@ Currently building hands-on labs and compliance simulations on Linux.
   </a>
 </div>
 <div>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></iframe>
+  <a> src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468462" style='border:none;'></a>
 </div>
 
 
